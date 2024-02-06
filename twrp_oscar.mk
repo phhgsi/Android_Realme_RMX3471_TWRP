@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/oneplus/oscar
+DEVICE_PATH := device/realme/RMX3471
 
 # Release name
 PRODUCT_RELEASE_NAME := oscar
@@ -30,6 +30,6 @@ TARGET_OTA_ASSERT_DEVICE := oscar
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := oscar
 PRODUCT_NAME := twrp_oscar
-PRODUCT_BRAND := OnePlus
-PRODUCT_MODEL := CPH2381
-PRODUCT_MANUFACTURER := OnePlus
+PRODUCT_BRAND := Realme
+PRODUCT_MODEL := RMX3471
+PRODUCT_MANUFACTURER := Realme
