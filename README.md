@@ -1,5 +1,5 @@
 
-# initial TWRP tree for OnePlus Nord CE2 Lite
+# initial TWRP tree for REALME 9 PRO
 aka holi
 aka Oscar
 
