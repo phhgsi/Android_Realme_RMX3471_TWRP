@@ -19,5 +19,5 @@ PRODUCT_MAKEFILES := \
 
 	COMMON_LUNCH_CHOICES := \
 	    twrp_oscar-user \
-		twrp_oscar-userdebug \
+            twrp_oscar-userdebug \
 	    twrp_oscar-eng
