@@ -28,8 +28,8 @@ $(call inherit-product, $(DEVICE_PATH)/device.mk)
 TARGET_OTA_ASSERT_DEVICE := oscar
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := oscar
-PRODUCT_NAME := twrp_oscar
+PRODUCT_DEVICE := RMX3471
+PRODUCT_NAME := twrp_RMX3471
 PRODUCT_BRAND := Realme
 PRODUCT_MODEL := RMX3471
 PRODUCT_MANUFACTURER := Realme
